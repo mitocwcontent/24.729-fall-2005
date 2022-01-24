@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "legacy_uid": "452d38a1-9118-c467-e986-39682137b202",
+  "instructors": {
+    "content": [
+      "e704f6b4-2899-db3c-b835-728a6cc18e95"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bbbfc869-b712-bc63-c84a-2c6446a957a9",
+    "website": "24-729-topics-in-philosophy-of-language-vagueness-fall-2005"
+  },
+  "course_title": "Topics in Philosophy of Language: Vagueness",
+  "course_description": "The objective of the graduate-level course is to give people a sense of what \"accounting for vagueness\" is all about, why it's hard, and why it's important. This will involve surveying some prominent accounts of vagueness.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.729",
+  "course_image_thumbnail": {
+    "content": "d3cdd271-8436-6257-b80b-c65bab96d54f",
+    "website": "24-729-topics-in-philosophy-of-language-vagueness-fall-2005"
+  },
+  "learning_resource_types": [
+    "Course Introduction"
+  ],
+  "site_uid": "f22708fe-5075-4331-9d2a-74b3abbf9ab9",
+  "title": "Course Metadata"
+}
